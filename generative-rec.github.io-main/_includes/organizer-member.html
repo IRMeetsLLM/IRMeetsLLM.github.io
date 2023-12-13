@@ -1,0 +1,12 @@
+<div class="col-sm-2">
+    <div class="team-member">
+        <img src="{{ member.img }}" class="img-responsive img-circle" alt="" width="600" height="600">
+        <h4><a href="{{ member.personal-page | default: 'https://irs-wsdm.github.io/'}}">{{ member.name }}</a></h4>
+        <p class="text-muted">{{ member.position }}</p>
+        <p class="text-muted">{{ member.organization }}</p>
+    </div>
+</div>
+
+<div class="col-sm-2">
+    &nbsp;
+</div>

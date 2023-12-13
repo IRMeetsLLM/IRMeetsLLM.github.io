@@ -1,0 +1,31 @@
+<div class="row speakers" class={{ include.class }}>
+  <div class="col-sm-4">
+    <div class="team-member">
+      <a href="{{ member.personal-page }}" target="_blank">
+        <img
+          src="{{ member.img }}"
+          style="height: 240px; width: 240px"
+          class="img-responsive img-circle"
+          alt="{{ member.name }}"
+        />
+      </a>
+      <h4>
+        <a href="{{ member.personal-page }}" target="_blank"
+          >{{ member.name }}</a
+        >
+      </h4>
+      <p class="text-muted">
+        {{ member.position }}<br />{{ member.organization }}
+      </p>
+    </div>
+  </div>
+
+  <div class="col-sm-8 text-justify">
+    <h4>{{ member.content-title }}</h4>
+    <p><b>Abstract</b><br>{{ member.content-speak }}</p>
+    <p>
+      <b>Bio</b><br />
+      {{ member.bio }}
+    </p>
+  </div>
+</div>
