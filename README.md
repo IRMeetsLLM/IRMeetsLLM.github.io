@@ -1,4 +1,4 @@
-# Workshop Title: The 1st Workshop on Information Retrieval Meets Large Language Models
+# The 1st Workshop on Information Retrieval Meets Large Language Models
 
 ## Summary
 
