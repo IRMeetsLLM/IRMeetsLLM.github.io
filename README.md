@@ -1,7 +1,4 @@
-# GENERATIVE-REC.github.io
-
-## Workshop Title: The 1st Workshop on Information Retrieval Meets Large Language Models
-
+# Workshop Title: The 1st Workshop on Information Retrieval Meets Large Language Models
 
 ## Summary
 
