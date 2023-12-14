@@ -878,11 +878,13 @@ ul.social-buttons li a.inactive:active {
 }
 
 ::-moz-selection {
+    color: white;
     text-shadow: none;
     background: #fd367e
 }
 
 ::selection {
+    color: white;
     text-shadow: none;
     background: #fd367e
 }
