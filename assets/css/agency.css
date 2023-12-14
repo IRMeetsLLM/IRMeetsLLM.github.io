@@ -51,7 +51,6 @@ h4,
 h5,
 h6 {
     font-family: Arial, sans-serif;
-    text-transform: uppercase;
     font-weight: 700
 }
 
@@ -209,7 +208,6 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .nav li a {
     font-family: Arial, sans-serif;
-    text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 1px;
     color: #fff
@@ -288,7 +286,6 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     font-family: Arial, sans-serif;
-    text-transform: uppercase;
     font-weight: 700;
     font-size: 20px;
     line-height: 20px;
@@ -309,7 +306,6 @@ header .intro-text .intro-heading {
     }
     header .intro-text .intro-heading {
         font-family: Arial, sans-serif;
-        text-transform: uppercase;
         font-weight: 700;
         font-size: 40px;
         line-height: 40px;
@@ -670,28 +666,24 @@ section#contact .form-control:focus {
 
 section#contact ::-webkit-input-placeholder {
     font-family: Arial, sans-serif;
-    text-transform: uppercase;
     font-weight: 700;
     color: #bbb
 }
 
 section#contact :-moz-placeholder {
     font-family: Arial, sans-serif;
-    text-transform: uppercase;
     font-weight: 700;
     color: #bbb
 }
 
 section#contact ::-moz-placeholder {
     font-family: Arial, sans-serif;
-    text-transform: uppercase;
     font-weight: 700;
     color: #bbb
 }
 
 section#contact :-ms-input-placeholder {
     font-family: Arial, sans-serif;
-    text-transform: uppercase;
     font-weight: 700;
     color: #bbb
 }
@@ -708,7 +700,6 @@ footer {
 footer span.copyright {
     line-height: 40px;
     font-family: Arial, sans-serif;
-    text-transform: uppercase;
     text-transform: none
 }
 
@@ -716,7 +707,6 @@ footer ul.quicklinks {
     margin-bottom: 0;
     line-height: 40px;
     font-family: Arial, sans-serif;
-    text-transform: uppercase;
     text-transform: none
 }
 
