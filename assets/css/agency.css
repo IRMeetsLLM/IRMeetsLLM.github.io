@@ -234,7 +234,8 @@ fieldset[disabled] .btn-xl.active {
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
-        border: 0
+        border: 0;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .1)
     }
     .navbar-default .navbar-brand {
         font-size: 2em;
