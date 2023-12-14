@@ -7,24 +7,60 @@ The advent of large language models (LLMs) presents both opportunities and chall
 
 ## Call for Papers
 
-The main objective of this workshop is to encourage pioneering research in the integration of generative models with recommender systems, with a specific focus on five key aspects. First, this workshop will motivate active researchers to utilize generative models for enhancing recommender algorithms and refining user modeling. Second, it promotes utilizing generative models to generate diverse content, i.e., AI-generated content (AIGC), in certain situations, complementing human-generated content to satisfy a broader range of user preferences and information needs. Third, it embraces substantial innovations in user interactions with recommender systems, possibly driven by the boom of large language models (LLMs). Fourth, the workshop will highlight the significance of trust in employing generative models for recommendations, encompassing aspects like content trustworthiness, algorithmic biases, and adherence to evolving ethical and legal standards. Lastly, the workshop will prompt researchers to develop diverse methods for the evaluation, including novel metrics and human evaluation approaches.
+At the heart of the "Information Retrieval Meets Large Language Models Workshop" lies the ambition to pioneer research that bridges the gap between information retrieval and large language models (LLMs). This workshop is dedicated to exploring how LLMs can enhance information retrieval algorithms, introducing a new era of data processing and analysis. We aim to delve into the potential of generative models, particularly in creating AI-generated content (AIGC), to supplement and diversify the information available, catering to a broader array of user preferences and information needs.
 
-The workshop provides an invaluable forum for researchers to present the latest advancements in the rapidly evolving field of recommender systems. We welcome original submissions focusing on generative models in recommender systems, including a range of relevant topics:
+A significant focus will be on the transformative potential of LLMs in reshaping user interactions with information retrieval systems, harnessing the latest advancements in conversational AI and user experience design. In parallel, the workshop will address the critical issues of trust and ethics in AI-driven information retrieval. This involves scrutinizing content authenticity, mitigating algorithmic biases, and ensuring adherence to evolving ethical and legal standards.
 
-1) Leveraging LLMs and other generative models such as diffusion models to improve user modeling and various recommendation tasks, including sequential, cold-start, social, conversational, multimodal, and causal recommendation tasks.
-2) Improving generative recommender models (e.g., LLM-based recommenders) from different aspects, such as model architecture, and training and inference efficiency.
-3) Combining external knowledge from LLMs or other generative models to enhance user and item representation learning.
-4) Generative recommendation by harnessing generative AI to drive personalized item creation or editing, particularly in contexts such as advertisement, image, and micro-video.
-5) Innovation of user-system interaction paradigm for effective user feedback by leveraging strong conversational capability of LLMs.
-6) Real-world applications of generative recommender systems, ranging from finance to streaming platforms and social networks.
-7) Trustworthy recommendation with generative models, for example, developing the standards and technologies to improve or inspect the recommendations from the aspects of bias, fairness, privacy, safety, authenticity, legal compliance, and identifiability.
-8) Developing generative agents empowered by LLMs, motivating the recommendation agents from user simulation and data collection, to algorithm enhancement and evaluation.
-9) Evaluation of generative recommender systems, including new evaluation metrics, standards, and human evaluation approaches.
+Furthermore, the workshop endeavors to promote the development and adoption of innovative evaluation methodologies. These new approaches, including advanced metrics and human-centered evaluation techniques, are essential for assessing the effectiveness and impact of LLM-enhanced information retrieval systems. Through these multifaceted objectives, the workshop aspires to set a new benchmark in the integration of information retrieval and large language models, paving the way for future innovations in the field.
 
-Submitted papers must be a single PDF file in the template of ACM WWW 2024. Submissions can be of varying length from 4 to 8 pages, plus unlimited pages for references. The authors may decide on the appropriate length of the paper as no distinction is made between long and short papers. All submitted papers will follow the "double-blind" review policy and undergo the same review process and duration. Expert peer reviewers in the field will assess all papers based on their relevance to the workshop, scientific novelty, and technical quality.
+**Topics of Interest:** We invite original submissions that address, but are not limited to, the following areas:
 
-We are also preparing an ACM TOIS special issue on using generative models for recommendation. High-quality submissions will be recommended to submit to this special issue.
+1. **LLMs in Query Understanding and Reformulation:**
+   - Exploring the use of LLMs for interpreting and rephrasing ambiguous queries, including query expansion with semantic understanding and contextual query reformulation.
 
+2. **LLMs in Understanding User Behavior:**
+   - Utilizing LLMs to predict user satisfaction in search sessions and personalize search results based on analysis of historical user data.
+
+3. **Personalized Search Techniques Using LLMs:**
+   - Developing user profiles with the aid of LLMs to improve search relevance and constructing personalized knowledge graphs.
+
+4. **Conversational Search Powered by LLMs:**
+   - Innovations in dialogue systems for search and continuous learning from user interactions in conversational information retrieval.
+
+5. **LLM-driven Indexing Strategies:**
+   - Implementing LLM-based models for generative retrieval, index pruning, optimization, and creating abstract document representations.
+
+6. **Ranking and Matching with LLMs:**
+   - Using LLMs for contextual ranking, semantic query-document matching, and multi-modal search result ranking.
+
+7. **LLMs in Evaluation Metrics for Information Retrieval:**
+   - Developing new IR evaluation metrics leveraging LLM language understanding, automating relevance judgment, and emulating user satisfaction testing.
+
+8. **Data Augmentation for IR with LLMs:**
+   - Generating synthetic queries and enhancing IR corpora diversity using LLM-generated content.
+
+9. **Incorporating IR Techniques in LLM Pre-training:**
+   - Merging traditional IR methods with LLM pre-training for domain adaptation, retrieval-enhanced strategies, and impact analysis.
+
+10. **Retrieval Adapters for Enhancing LLMs:**
+    - Creating modular retrieval adapters for specific IR tasks and customizable IR features within LLMs, improving transfer learning.
+
+11. **Knowledge-Enriched LLMs for IR:**
+    - Integrating external knowledge bases with LLMs, using IR for real-time data feeding, and enhancing factual accuracy with dynamic retrieval.
+
+12. **Retrieval Augmented Generation for LLMs:**
+    - Leveraging document retrieval to enrich LLM responses, comparing RAG with end-to-end models, and examining complex reasoning strategies.
+
+13. **Hybrid Models of LLMs and Classic IR:**
+    - Evaluating hybrid models in specialized domains, enhancing classic IR models' features with LLMs, and maintaining system interpretability.
+
+14. **Training and Reasoning Strategies for LLMs in IR:**
+    - Implementing feedback loops, multi-task learning, meta-learning, few-shot learning, explainable AI, transfer learning, and scalability in LLM training for IR.
+
+15. **Extensions in Multi-Lingual and Multi-Modal Scenarios:**
+    - Investigating LLMs in cross-lingual retrieval, enhancing multi-lingual corpora, interpreting and indexing multi-modal data, and integrating LLMs with other modalities for unified search platforms.
+
+Submissions must be in a single PDF file, formatted according to the ACM WWW 2024 template. Papers may range from 4 to 8 pages, with additional unlimited pages for references. Authors can choose the length of their paper, as no distinction will be made between long and short papers. All submissions will undergo a "double-blind" review process, evaluated for their relevance, scientific novelty, and technical quality by expert reviewers.
 
 ## Important Dates
 
