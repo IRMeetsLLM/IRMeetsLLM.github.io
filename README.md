@@ -65,7 +65,9 @@ Submissions must be in a single PDF file, formatted according to the ACM WWW 202
 ## Important Dates
 
 Paper Submissions Deadline: February 5, 2024 (11:59 PM, AoE)
+
 Acceptance Notification: March 4, 2024 (11:59 PM, AoE)
+
 Workshop Date: May 14, 2024
 
 ## Workshop Organizers:
