@@ -72,19 +72,19 @@ Workshop Date: May 14, 2024
 
 ## Workshop Organizers:
 
-Wenjie Wang, National University of Singapore
-Yang Zhang, University of Science and Technology of China
-Xinyu Lin, National University of Singapore
-Fuli Feng, University of Science and Technology of China
-Weiwen Liu, Huawei Noah's Ark Lab, China
-Yong Liu, Huawei Noah's Ark Lab, Singapore
-Wayne Xin Zhao, Renmin University of China
-Xiangnan He, University of Science and Technology of China
+Zheng Liu, Beijing Academy of Artificial Intelligence
+Yujia Zhou, Renmin University of China
+Yutao Zhu, Renmin University of China
+Jianxun Lian, Microsoft Research Asia
+Chaozhuo Li, Microsoft Research Asia
+Zhicheng Dou, Renmin University of China
+Defu Lian, University of Science and Technology of China
+Jian-Yun Nie, University of Montreal
 
 
 ## Contact
 
-wenjiewang96@gmail.com
+zhengliu1026@gmail.com
 
 
 
