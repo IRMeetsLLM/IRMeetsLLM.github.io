@@ -16,6 +16,10 @@ p.large {
     font-size: 19px
 }
 
+a {
+    color: #fd367e
+}
+
 ul.large {
     font-size: 18px;
     line-height: 1.75;
@@ -199,6 +203,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .nav li a {
+    color: black;
     font-family: Arial, sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
@@ -211,6 +216,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-nav>.active>a {
+    color: white;
     border-radius: 0;
     background-color: #fd0f65
 }
