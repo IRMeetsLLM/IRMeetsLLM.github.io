@@ -628,14 +628,10 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
+/*     background-color: #222; */
     /* background-image: url(../img/map-image.html); */
     background-position: center;
     background-repeat: no-repeat
-}
-
-section#contact .section-heading {
-    color: #fff
 }
 
 section#contact .form-group {
