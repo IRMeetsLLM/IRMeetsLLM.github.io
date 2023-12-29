@@ -60,7 +60,7 @@ Furthermore, the workshop endeavors to promote the development and adoption of i
 15. **Extensions in Multi-Lingual and Multi-Modal Scenarios:**
     - Investigating LLMs in cross-lingual retrieval, enhancing multi-lingual corpora, interpreting and indexing multi-modal data, and integrating LLMs with other modalities for unified search platforms.
 
-Submissions must be in a single PDF file, formatted according to the ACM WWW 2024 template. Papers may range from 4 to 8 pages, with additional unlimited pages for references. Authors can choose the length of their paper, as no distinction will be made between long and short papers. All submissions will undergo a "double-blind" review process, evaluated for their relevance, scientific novelty, and technical quality by expert reviewers.
+Submissions must be in a single PDF file, formatted according to the ACM WWW 2024 template. Papers may range from 4 to 8 pages, with additional up to 2 pages for references & appendix. Authors can choose the length of their paper, as no distinction will be made between long and short papers. All submissions will undergo a "double-blind" review process, evaluated for their relevance, scientific novelty, and technical quality by expert reviewers.
 
 ## Important Dates
 
